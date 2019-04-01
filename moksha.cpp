@@ -1,4 +1,5 @@
 //pokethon phase 1 game by team wckd_cr3w
+//name: MOKSHA
 #include<iostream>
 #include<ctype.h>
 #include<stdio.h>
@@ -7,8 +8,6 @@
 #include<conio.h>
 #include<stdlib.h>
 #include<string>
-#include<bits/stdc++.h>
-#include<fstream>
 using namespace std;
 
 void delay(int number_of_seconds)
