@@ -427,7 +427,7 @@ bool puzzle()
 {
     string code;
     cout<<endl<<"You realised it is some kind of code";
-    cout<<endl<<"---...--.....---...--.....---...--.....---...--.....";
+    cout<<endl<<"-- ---....-- ---....-- ---....-- ---....-- ---";
     cout<<endl<<endl<<"Write the message in the code: ";
     cin>>code;
     if(strToUpper(code)=="OHM")
